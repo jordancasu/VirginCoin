@@ -1,0 +1,2 @@
+# VirginCoin
+Virgin Cryptcurrency 
